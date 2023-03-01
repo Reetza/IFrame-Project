@@ -1,0 +1,39 @@
+p {
+    Color: White;
+    font-size: 2vw;
+    font-family: 'Open Sans', sans-serif;
+
+}
+h1 {
+    color: White; 
+    font-size: 4vw;
+   font-family: 'Shantell Sans', cursive;
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #bc13fe,
+              0 0 0.8rem #bc13fe,
+              0 0 2.8rem #bc13fe,
+              inset 0 0 1.3rem #bc13fe;
+   animation: flicker 1.5s infinite alternate;
+}
+.neonText {
+  color: #fff;
+  text-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #0fa,
+      0 0 82px #0fa,
+      0 0 92px #0fa,
+      0 0 102px #0fa,
+      0 0 151px #0fa;
+}
+body{
+    background-color: black;
+    width:90%
+    color: rgb(235, 132, 163);
+    text-align:center;
+    margin:auto;
